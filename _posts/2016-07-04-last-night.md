@@ -2,7 +2,7 @@
 layout: post
 title: "Last Night I Dreamt That Somebody Solved Me"
 date: 2016-07-04
-tags: 
+tags:
 - crosswords
 - puzzles
 ---
