@@ -109,6 +109,7 @@
             return;
         }
         searchResultsEl.style.offsetWidth;
+        console.log(posts)
 
         var matchingPosts = posts.filter(function (post) {
             if ((post.title + '').toLowerCase().indexOf(currentInputValue) !== -1 || (post.description + '').toLowerCase().indexOf(currentInputValue) !== -1) {

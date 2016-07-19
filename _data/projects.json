@@ -6,5 +6,13 @@
 		"url": "https://github.com/remotelytrue/bike-share-trip-planner",
 		"date": "May 2016",
 		"tags": ["Python"]
-	}
+	},
+  {
+    "slug": "baphl-12",
+    "name": "BAPHL 12",
+    "image": "Sever-Quad-Flyer.png",
+    "url": "http://baphl.org/12",
+    "date": "April 2015",
+    "tags": ["Puzzles"]
+  }
 ]

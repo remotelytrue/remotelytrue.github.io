@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Data science projects; mainly Python so far.
+Data science and other projects; mainly Python so far.
