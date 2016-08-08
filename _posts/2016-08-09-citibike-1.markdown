@@ -29,6 +29,8 @@ Then, you could produce a 'worst-case' scenario for how many net bikes will be c
 
 I've implemented this into [an app online](https://bike-share-trip-planner.herokuapp.com), which will tell you which nearby stations are likely to have bikes in the near future and which ones won't.
 
+[NOTE: as of this posting, these maps might not work on your browser. Chrome is likely your best bet.]
+
 As a sanity check, I've simulated checkouts for this coming Monday (August 8th, 2016) with a temp of 30 degrees C. 
 
 <div class="nyc_bike_share" id="map_warm"></div>
