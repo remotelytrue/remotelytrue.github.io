@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Themeless #2"
+date: 2016-08-08
+summary: Themeless 2
+categories:
+- crosswords
+- puzzles
+---
+
+Look, another themeless! And, with a reasonably timely seed! Meanwhile, I feel obligated to say that I'm looking forward to [Lollapuzzoola](http://www.bemoresmarter.com/) this weekend, despite my zero chance of competing. I could hope to go error-free, or maybe even not use their version of Google (a certain amount of opportunities to ask for the answer to a clue)...
+
+[pdf](/files/puzzles/themeless_2.pdf)
+
+[puz](/files/puzzles/themeless_2.puz)
