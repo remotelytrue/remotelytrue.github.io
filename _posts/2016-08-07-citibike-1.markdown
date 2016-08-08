@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bike sharing overview and first attempts"
-date: 2016-08-09
+date: 2016-08-07
 summary: Bike sharing prediction
 categories:
 - bike_sharing
