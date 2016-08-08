@@ -101,7 +101,7 @@ var map_warm = L.map('map_warm', {
 
 var layer = new L.StamenTileLayer("toner-lite");
 map_warm.addLayer(layer);
-d3.json("/files/warm_predictions.json", function(error, data){
+d3.json("/files/data_files/warm_predictions.json", function(error, data){
     var options = {};
     var testSODALayer = L.timeDimension.layer.sodaHeatMap(data, options);
     testSODALayer.addTo(map_warm);
@@ -132,7 +132,7 @@ var map_cold = L.map('map_cold', {
 
 var layer2 = new L.StamenTileLayer("toner-lite");
 map_cold.addLayer(layer2);
-d3.json("/files/cold_predictions.json", function(error, data){
+d3.json("/files/data_files/cold_predictions.json", function(error, data){
     var options = {};
     var testSODALayer2 = L.timeDimension.layer.sodaHeatMap(data, options);
     testSODALayer2.addTo(map_cold);
