@@ -36,6 +36,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
+future: true
 url: "https://remotelytrue.github.io"
 baseurl: ""
 paginate: 20
