@@ -3,6 +3,7 @@ layout: post
 title: "Themeless #2"
 date: 2016-08-08
 summary: Themeless 2
+comments: true
 categories:
 - crosswords
 - puzzles

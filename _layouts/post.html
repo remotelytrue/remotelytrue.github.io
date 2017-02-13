@@ -51,7 +51,7 @@ layout: default
   {% endif %}
 </div>
 
-
+{% if page.comments %}
 <div class="disqus-comments">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
@@ -70,3 +70,4 @@ layout: default
     /* ]]> */
     </script>
 </div>
+{% endif %}

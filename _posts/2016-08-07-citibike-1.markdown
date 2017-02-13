@@ -3,6 +3,7 @@ layout: post
 title: "Bike sharing overview and first attempts"
 date: 2016-08-07
 summary: Bike sharing prediction
+comments: true
 categories:
 - bike_sharing
 - data_science

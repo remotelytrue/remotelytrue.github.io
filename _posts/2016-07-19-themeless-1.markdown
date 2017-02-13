@@ -3,6 +3,7 @@ layout: post
 title: "Themeless #1"
 date: 2016-07-19
 summary: First themeless(!)
+comments: true
 categories:
 - crosswords
 - puzzles
