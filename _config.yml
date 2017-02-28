@@ -28,7 +28,7 @@ urls:
     - text: Blog
       url: /blog/
     - text: Puzzles
-      url: /puzzles/
+      url: /category/puzzles/
     - text: Projects
       url: /projects/
     - text: Github
