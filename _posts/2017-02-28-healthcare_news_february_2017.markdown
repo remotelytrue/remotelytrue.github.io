@@ -10,7 +10,7 @@ categories:
 ---
 My AnalyticsWeek roundup posts from the last month:
 
-[2-6-17](https://analyticsweek.com/content/february-7-2017-health-biotech-analytics-news-roundup/)
+[2-6-17](https://analyticsweek.com/content/february-6-2017-health-biotech-analytics-news-roundup/)
 
 [2-13-17](https://analyticsweek.com/content/february-13-2017-health-biotech-analytics-news-roundup/)
 
