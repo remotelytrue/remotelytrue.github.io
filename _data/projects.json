@@ -14,5 +14,13 @@
     "url": "http://baphl.org/12",
     "date": "April 2015",
     "tags": ["Puzzles"]
+  },
+  {
+    "slug": "dash-9",
+    "name": "DASH 9",
+    "image": "dash_9.png",
+    "url": "http://dash9.org",
+    "date": "May 2017",
+    "tags": ["Puzzles"]
   }
 ]
