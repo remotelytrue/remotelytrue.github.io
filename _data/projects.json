@@ -22,5 +22,21 @@
     "url": "http://dash9.org",
     "date": "May 2017",
     "tags": ["Puzzles"]
+  },
+  {
+    "slug": "ldh-mdh",
+    "name": "Trichomonad lactate and malate dehydrogenase evolution",
+    "image": "ldh_mdh_fig_4.jpg",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918429/",
+    "date": "2011-2014",
+    "tags": ["Biochemistry", "Evolution"]
+  },
+  {
+    "slug": "superposition",
+    "name": "Protein Structural Superpositioning",
+    "image": "superposition.jpeg",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3400950/",
+    "date": "2008-2011",
+    "tags": ["Structural Biology", "Statistics"]
   }
 ]
