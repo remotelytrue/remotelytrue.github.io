@@ -8,7 +8,7 @@ categories:
 - healthcare
 - biotech
 ---
-My AnalyticsWeek roundup posts from the last month:
+My AnalyticsWeek roundup posts from the past month:
 
 [5-1-17](https://analyticsweek.com/content/may-1-2017-health-biotech-analytics-news-roundup/)
 
